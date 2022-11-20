@@ -1,4 +1,4 @@
-### Hi there 👋, Omiko Lomsadze
+### Omiko Lomsadze
 #### Full-stack Web Developer
 I'm Omiko From Sakartvelo and I do web development. I enjoy learning new languages, mastering the ones I know and always keeping up with new Standards. My preferred stack is Angular + .NET, but really, I have and continue to work on any other framework or language. 
 
